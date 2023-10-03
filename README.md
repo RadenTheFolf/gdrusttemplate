@@ -1,1 +1,1 @@
-# gdrusttemplate
+# {{project-name}}
